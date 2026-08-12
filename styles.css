@@ -440,7 +440,7 @@ a:hover {
 /* Why us */
 .why-grid {
   display: grid;
-  gap: 0.9rem;
+  gap: 1.75rem;
 }
 
 .trust-list {
